@@ -11,6 +11,6 @@
     </servlet>
     <servlet-mapping>
     	<servlet-name>servletSample</servlet-name>
-    	<url-pattern>/servletSample</url-pattern>
+    	<url-pattern>/PrimeNumber</url-pattern>
     </servlet-mapping>
 </web-app>
